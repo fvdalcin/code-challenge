@@ -71,8 +71,8 @@ Expected Output:
 
 In order to run the script with the example input file, run the command:
 
-python rover.py input.txt
+    python rover.py input.txt
 
 In order to run the unit tests of the rover class:
 
-python -m unittest rover_test.py
+    python -m unittest rover_test.py
