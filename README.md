@@ -13,5 +13,5 @@ Hey! We want to take a look at your code skills, choose one of the problems and 
 ## Challenges
 
 1. [Challenge 1 - Mobile](/challenge1.md)
-2. [Challenge 2 - Mars Rovers](/challenge2/challenge2.md)
+2. [Challenge 2 - Mars Rovers](/challenge2/README.md)
 3. [Challenge 3 - Front-end](/challenge3.md)

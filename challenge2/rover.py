@@ -66,6 +66,6 @@ def main():
             if not line1: break
             rover = Rover(line1)
             rover.move(line2)
-            print(rover.get_position())
+            print(rover.position)
             
 if __name__ == "__main__": main()

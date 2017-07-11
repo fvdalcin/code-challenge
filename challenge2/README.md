@@ -66,3 +66,13 @@ Expected Output:
 1 3 N
 5 1 E
 ```
+
+##### Solution
+
+In order to run the script with the example input file, run the command:
+
+python rover.py input.txt
+
+In order to run the unit tests of the rover class:
+
+python -m unittest rover_test.py
